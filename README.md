@@ -1,2 +1,2 @@
-# natural language processing
+# agentic ai
 IDX Exchange Summer26 internship
